@@ -735,7 +735,7 @@ function busTalkApp() {
         obtenerTiempoTramo(origen, destino) {
             // medbasha - Tiempos recalibrados a 63 min reales en L01 para ritmo constante sin prisa
             const tiempos = {
-                "Ciu-Ferr": 21, "Ferr-Mer": 10, "Mer-Alaior C.": 10, "Alaior C.-Alaior P.": 4, "Alaior P.-Argen": 5, "Argen-Maó": 13,
+                "Ciu-Ferr": 21, "Ferr-Mer": 10, "Mer-Alaior C.": 10, "Alaior C.-Alaior P.": 4, "Alaior P.-Argen": 5, "Argen-Maó": 15,
                 "Maó-Argen": 13, "Argen-Alaior P.": 5, "Alaior P.-Alaior C.": 4, "Alaior C.-Mer": 10, "Mer-Ferr": 10, "Ferr-Ciu": 21,
                 "Ciu-Maó": 45, "Maó-Ciu": 45,
                 "Maó-Fontanilles": 5, "Fontanilles-Castell": 5, "Castell-Fontanilles": 5, "Fontanilles-Maó": 5,
